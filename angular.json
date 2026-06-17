@@ -7,7 +7,7 @@
   },
   "newProjectRoot": "projects",
   "projects": {
-    "mehathaj-portfolio": {
+    "prasanna-portfolio": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -62,10 +62,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "mehathaj-portfolio:build:production"
+              "buildTarget": "prasanna-portfolio:build:production"
             },
             "development": {
-              "buildTarget": "mehathaj-portfolio:build:development"
+              "buildTarget": "prasanna-portfolio:build:development"
             }
           },
           "defaultConfiguration": "development"
