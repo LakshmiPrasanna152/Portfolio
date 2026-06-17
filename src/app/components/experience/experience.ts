@@ -13,9 +13,16 @@ export class ExperienceComponent {
 
   experiences = [
     {
+      company: 'Edunet Foundation',
+      role: 'AI Intern',
+      period: 'December 2025 - April 2026',
+      description:
+        'Learned Python for AI, Machine Learning fundamentals, data preprocessing, prompt engineering, and building AI-powered solutions using modern tools.'
+    },
+    {
       company: 'SURE Trust',
       role: 'Full Stack Intern',
-      period: 'October 2025 - April 2026',
+      period: 'Oct 2025 - Nov 2026',
       description:
         'Developed responsive web applications using modern web technologies.'
     },

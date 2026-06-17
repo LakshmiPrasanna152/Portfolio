@@ -12,6 +12,7 @@ import { RevealDirective } from '../../animations/reveal.directive';
 export class ProjectsComponent {
 
   projects = [
+    
     {
       title: 'Care Connect',
       description:
@@ -29,6 +30,15 @@ export class ProjectsComponent {
       image: 'mlstudio.png',
       tech: ['Streamlit', 'Matplotlib', 'NumPy', 'scikit-learn', 'Pandas'],
       github: 'https://github.com/LakshmiPrasanna152/supervised_web'
-    }
+    },
+    {
+      title: 'Knowledge-Based-FAQ-Generator',
+      description:
+        'Create a tool that automatically generates FAQ sections from business documents using LLMs.',
+      gradient: 'blue',
+      image: 'Faq_Generator.png',
+      tech: ['React.js', 'Fast API','Tailwind CSS', 'LLMs', 'SQLite'],
+      github: 'https://github.com/LakshmiPrasanna152/Knowledge-Based-Faq-Generator'
+    },
   ];
 }
