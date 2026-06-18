@@ -1,0 +1,13 @@
+{
+  "routes": {
+    "/": {},
+    "/about": {},
+    "/background": {},
+    "/contact": {},
+    "/experience": {},
+    "/footer": {},
+    "/navbar": {},
+    "/projects": {},
+    "/skills": {}
+  }
+}

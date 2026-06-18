@@ -1,5 +1,5 @@
 {
-  "name": "mehathaj-portfolio",
+  "name": "prasanna-portfolio",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:mehathaj-portfolio": "node dist/mehathaj-portfolio/server/server.mjs"
+    "serve:ssr:prasanna-portfolio": "node dist/prasanna-portfolio/server/server.mjs"
   },
   "prettier": {
     "printWidth": 100,
@@ -43,7 +43,7 @@
     "@angular/build": "^21.0.4",
     "@angular/cli": "^21.0.4",
     "@angular/compiler-cli": "^21.0.0",
-    "@netlify/angular-runtime": "^3.0.1",
+    "@netlify/angular-runtime": "^4.0.0",
     "@tailwindcss/cli": "^4.1.18",
     "@tailwindcss/postcss": "^4.1.12",
     "@types/express": "^5.0.1",
